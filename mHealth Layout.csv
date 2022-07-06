@@ -1,0 +1,401 @@
+590100000002_Layout,590100000002_Layout,Survey Name,Questionnaire on mobile applications for health.,ID,5901000002,Survey,Internet Research,Class
+,,,,,,,,
+Question Number,Question Type,Item Name,Label,Type,Category numbers,Columns,Options,Option labels
+,,,,,,,,
+,,MID,MID,MID,,1,,ID
+,,,,,,,,
+,,DAY,DAY,D,,2,,Date
+,,,,,,,,
+SEX,S,SEX,SEX,SA,2,3,,Gender
+,,,,,,,,
+,,,,,,,1,Male
+,,,,,,,,
+,,,,,,,2,Female
+,,,,,,,,
+AGE,NUM,AGE,AGE,NUM,,4,,Age
+,,,,,,,,
+GEN,S,GEN,GEN,SA,7,5,,Age band
+,,,,,,,,
+,,,,,,,1,15 <
+,,,,,,,,
+,,,,,,,2,15-19
+,,,,,,,,
+,,,,,,,3,20-29
+,,,,,,,,
+,,,,,,,4,30-39
+,,,,,,,,
+,,,,,,,5,40-49
+,,,,,,,,
+,,,,,,,6,50-59
+,,,,,,,,
+,,,,,,,7,60>=
+,,,,,,,,
+PRE,S,PRE,PRE,SA,47,6,,Prefecture
+,,,,,,,,
+,,,,,,,1,Hokkaido
+,,,,,,,,
+,,,,,,,2,Aomori
+,,,,,,,,
+,,,,,,,3,Iwate
+,,,,,,,,
+,,,,,,,4,Miyagi
+,,,,,,,,
+,,,,,,,5,Akita
+,,,,,,,,
+,,,,,,,6,Yamagata
+,,,,,,,,
+,,,,,,,7,Fukushima
+,,,,,,,,
+,,,,,,,8,Ibaragi
+,,,,,,,,
+,,,,,,,9,Tochigi
+,,,,,,,,
+,,,,,,,10,Gunma
+,,,,,,,,
+,,,,,,,11,Saitama
+,,,,,,,,
+,,,,,,,12,Chiba
+,,,,,,,,
+,,,,,,,13,Tokyo
+,,,,,,,,
+,,,,,,,14,Kanagawa
+,,,,,,,,
+,,,,,,,15,Niigata
+,,,,,,,,
+,,,,,,,16,Toyama
+,,,,,,,,
+,,,,,,,17,Ishikawa
+,,,,,,,,
+,,,,,,,18,Fukui
+,,,,,,,,
+,,,,,,,19,Yamanashi
+,,,,,,,,
+,,,,,,,20,Nagano
+,,,,,,,,
+,,,,,,,21,Gifu
+,,,,,,,,
+,,,,,,,22,Shizuoka
+,,,,,,,,
+,,,,,,,23,Aichi
+,,,,,,,,
+,,,,,,,24,Mie
+,,,,,,,,
+,,,,,,,25,Shiga
+,,,,,,,,
+,,,,,,,26,Kyoto
+,,,,,,,,
+,,,,,,,27,Osaka
+,,,,,,,,
+,,,,,,,28,Hyogo
+,,,,,,,,
+,,,,,,,29,Nara
+,,,,,,,,
+,,,,,,,30,Wakayama
+,,,,,,,,
+,,,,,,,31,Tottori
+,,,,,,,,
+,,,,,,,32,Shimane
+,,,,,,,,
+,,,,,,,33,Okayama
+,,,,,,,,
+,,,,,,,34,Hiroshima
+,,,,,,,,
+,,,,,,,35,Yamaguchi
+,,,,,,,,
+,,,,,,,36,Tokushima
+,,,,,,,,
+,,,,,,,37,Kagawa
+,,,,,,,,
+,,,,,,,38,Ehime
+,,,,,,,,
+,,,,,,,39,Kouchi
+,,,,,,,,
+,,,,,,,40,Fukuoka
+,,,,,,,,
+,,,,,,,41,Saga
+,,,,,,,,
+,,,,,,,42,Nagasaki
+,,,,,,,,
+,,,,,,,43,Kumamoto
+,,,,,,,,
+,,,,,,,44,Oita
+,,,,,,,,
+,,,,,,,45,Miyazaki
+,,,,,,,,
+,,,,,,,46,Kagoshima
+,,,,,,,,
+,,,,,,,47,Okinawa
+,,,,,,,,
+ARE,S,ARE,ARE,SA,8,7,,Region
+,,,,,,,,
+,,,,,,,1,Hokkaido
+,,,,,,,,
+,,,,,,,2,Tohoku
+,,,,,,,,
+,,,,,,,3,Kanto
+,,,,,,,,
+,,,,,,,4,Chubu
+,,,,,,,,
+,,,,,,,5,Kinki
+,,,,,,,,
+,,,,,,,6,Chugoku
+,,,,,,,,
+,,,,,,,7,Shikoku
+,,,,,,,,
+,,,,,,,8,Kyushu
+,,,,,,,,
+JOB,S,JOB,JOB,SA,11,8,,Occupation
+,,,,,,,,
+,,,,,,,1,Civil-Servant
+,,,,,,,,
+,,,,,,,2,Exective
+,,,,,,,,
+,,,,,,,3,Employee(Office based work)
+,,,,,,,,
+,,,,,,,4,Employee(Manual work)
+,,,,,,,,
+,,,,,,,5,Employee(Others)
+,,,,,,,,
+,,,,,,,6,Self-employed
+,,,,,,,,
+,,,,,,,7,Freelancer
+,,,,,,,,
+,,,,,,,8,Housewife
+,,,,,,,,
+,,,,,,,9,Part Time
+,,,,,,,,
+,,,,,,,10,Student
+,,,,,,,,
+,,,,,,,11,Others
+,,,,,,,,
+MAR,S,MAR,MAR,SA,2,9,,Marital Status
+,,,,,,,,
+,,,,,,,1,Single
+,,,,,,,,
+,,,,,,,2,Married
+,,,,,,,,
+CHI,S,CHI,CHI,SA,2,10,,Kids
+,,,,,,,,
+,,,,,,,1,Kids
+,,,,,,,,
+,,,,,,,2,No kids
+,,,,,,,,
+Q1,FS,Q1,,,,,,What is your mobile application name which you use the most often?
+,,,,,,,,
+,,,q1t1,FA,,11,1,App NameÅF
+,,,,,,,,
+Q2,M,Q2,,MA,4,,,What is the OS Version? 
+,,,,,,,,
+,,,q2c1,,,12,1,iOS
+,,,,,,,,
+,,,q2c2,,,13,2,Android
+,,,,,,,,
+,,,q2c3,,,14,3,Windows
+,,,,,,,,
+,,,q2c4,,,15,4,No downloaded
+,,,,,,,,
+Q3,S,Q3,q3,SA,6,16,, What is the purpose of the use of the application? 
+,,,,,,,,
+,,,,,,,1,Education
+,,,,,,,,
+,,,,,,,2,Monitoring
+,,,,,,,,
+,,,,,,,3,Fitness
+,,,,,,,,
+,,,,,,,4,Diagnosis
+,,,,,,,,
+,,,,,,,5,Treatment
+,,,,,,,,
+,,,,,,,6,Other
+,,,,,,,,
+,,Q3T6,q3t6,FA,,17,6,Other
+,,,,,,,,
+Q4,MTS,,,,,,,Please answer questions below
+,,,,,,,,
+,,Q4S1,q4s1,SA,5,18,,ENGAGEMENT - The app is interactive 
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S2,q4s2,SA,5,19,,ENGAGEMENT - The app is entertaining 
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S3,q4s3,SA,5,20,,FUNCTIONALITY - Performance 
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S4,q4s4,SA,5,21,,FUNCTIONALITY - Ease of use
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S5,q4s5,SA,5,22,,FUNCTIONALITY - Navigation
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S6,q4s6,SA,5,23,,AESTHETICS  - Layout
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S7,q4s7,SA,5,24,,AESTHETICS  - Graphics
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S8,q4s8,SA,5,25,,AESTHETICS  - Visual appeal: How good does the app look?
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S9,q4s9,SA,5,26,,"PRIVACY, ETHICS AND INFORMATION - Visual information"
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S10,q4s10,SA,5,27,,"PRIVACY, ETHICS AND INFORMATION - Quality of information"
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S11,q4s11,SA,5,28,,"PRIVACY, ETHICS AND INFORMATION - Credibility"
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S12,q4s12,SA,5,29,,"PRIVACY, ETHICS AND INFORMATION - Confidentiality and privacy"
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S13,q4s13,SA,5,30,,"PRIVACY, ETHICS AND INFORMATION - The app is ethical?"
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S14,q4s14,SA,5,31,,Overall - What is your overall star rating of the app?
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+,,Q4S15,q4s15,SA,5,32,,Overall - Would you recommend this app?  
+,,,,,,,,
+,,,,,,,1,Strongly agree
+,,,,,,,,
+,,,,,,,2,Agree
+,,,,,,,,
+,,,,,,,3,Not decided
+,,,,,,,,
+,,,,,,,4,Disagree
+,,,,,,,,
+,,,,,,,5,Strongly disagree
+,,,,,,,,
+Q5,S,Q5,q5,SA,3,33,,Would you pay for this app?  
+,,,,,,,,
+,,,,,,,1,This app is not free
+,,,,,,,,
+,,,,,,,2,"This app is free. If it is not free, I use this app"
+,,,,,,,,
+,,,,,,,3,"This app is free. If it is not free, I do not use this app."
